@@ -1,0 +1,4 @@
+En el itemis se generaron los diagramas de bloques requeridos para controlar un motor y distintas caracteristicas
+Se controlara su velocidad, lado de giro y si esta encendido o apagado. 
+
+Los diagramas de bloques y los distintos eventos requeridos se pueden observar en el archivo interactive_menu_statechart
